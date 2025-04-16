@@ -27,10 +27,10 @@
 
 **1. Скачайте файл в любое место и запустите**  
 
-#### 📥 Скачать программу
-
-<a href="https://github.com/Lisica050521/Python-VK-UnSub-PostDelete/releases/latest/download/VK.UnSub.PostDelete.exe" download>
-  <button>Скачать VK.UnSub.PostDelete.exe</button>
+<a href="https://lisica050521.github.io/Python-VK-UnSub-PostDelete-Releases/VK%20UnSub%20%26%20PostDelete.exe" download="VK-UnSub-PostDelete.exe">
+  <button style="background:#2ea44f; color:white; padding:10px; border-radius:5px;">
+    📥 Скачать программу
+  </button>
 </a>
 <br><br>
 
